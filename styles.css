@@ -1,0 +1,40 @@
+.title
+{
+    display: flex;
+    gap: 100px;
+    margin-top:10px;
+    height:1000px;
+    width:100%;
+    background: linear-gradient(lightblue, lightgreen);
+    background-repeat: no-repeat;
+    
+}
+.search
+{
+   border: solid 2px black;
+   border-radius: 10px;
+   width:300px;
+   height:30px;
+   margin-top:300px;
+   margin-right: 100px;
+
+}
+
+.Coffee
+{
+    height:200px;
+    width:100px;
+    margin-right: 200px;
+    
+    
+}
+.Icon
+{
+    margin-top:70px;
+    margin-left: 120px;
+    margin-right: 60px;
+    border-radius:10%;  
+    border : solid black;
+    
+    
+}
